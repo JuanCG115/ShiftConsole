@@ -63,3 +63,5 @@ Example Interaction
     
     Quieres sacar otro turno? [S] o [N]: N
     Gracias por su visita
+
+"The code in this repository is based on lessons from Federico Garay's course."
